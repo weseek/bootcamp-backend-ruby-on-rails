@@ -47,6 +47,7 @@ group :development, :test do
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
 
   gem 'annotate'
+  # gem 'annotate_gem', require: false
 
   gem 'pry-byebug'
   gem 'pry-rails'

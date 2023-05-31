@@ -37,7 +37,6 @@
 				"dbaeumer.vscode-eslint",
 				"cschleiden.vscode-github-actions",
 				"editorconfig.editorconfig",
-				"esbenp.prettier-vscode",
 				"shinnn.stylelint",
 				"hex-ci.stylelint-plus",
 				"mikestead.dotenv",
